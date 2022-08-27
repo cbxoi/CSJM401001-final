@@ -118,7 +118,7 @@ E.g. 路上的**行**人 This pronunces xíng and means 'walking'
 
 # Example
 
-<img src="/network.ppm" alt="network" style="zoom: 45%;" />
+<img src="/network.png" alt="network" style="zoom: 45%;" />
 
 <br/>
 
