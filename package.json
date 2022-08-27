@@ -7,13 +7,14 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.33.0",
+    "@nuxt/kit": "3.0.0-rc.8",
+    "@slidev/cli": "^0.35.5",
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
   "devDependencies": {
-    "@iconify/json": "^2.1.57",
+    "@iconify/json": "^2.1.99",
     "@iconify/vue": "^3.2.1",
-    "playwright-chromium": "^1.22.2"
+    "playwright-chromium": "^1.25.1"
   }
 }
