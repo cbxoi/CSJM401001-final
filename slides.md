@@ -39,11 +39,6 @@ Kindergarten Students (3-6 years-old) :
 
 Single words, short phrases & sentences
 
-<br/>
-
-Grade 1-3 Students (7-10 years-old) : 
-
-Harder words, complex phrases, longer sentences
 
 ---
 
@@ -96,7 +91,7 @@ Use the models trained by Chinese language database to generate the right pronun
 
 ---
 
-# Example
+# Example for Contexts
 
 <div></div>
 
@@ -116,13 +111,11 @@ E.g. 路上的**行**人 This pronunces xíng and means 'walking'
 
 ---
 
-# Example
+# Example for Contexts
 
-<img src="/network.png" alt="network" style="zoom: 45%;" />
 
 <br/>
 
-Input: **Context** / Output: **Pronunciation**
 
 Characters have different **weights**
 
