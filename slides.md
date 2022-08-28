@@ -39,11 +39,6 @@ Kindergarten Students (3-6 years-old) :
 
 Single words, short phrases & sentences
 
-<br/>
-
-Grade 1-3 Students (7-10 years-old) : 
-
-Harder words, complex phrases, longer sentences
 
 ---
 
